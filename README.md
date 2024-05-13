@@ -36,10 +36,10 @@ Official implementation of the paper "[Explaining generative diffusion models vi
 - **`DF_RISE_auc.py`:** Computes the AUC score for DF-RISE.
 
 ## Installation
-### Requirements
-```bash
-pip install -r requirements.txt
-
 ### Environment Setup
 1. Clone this repository:
    git clone https://github.com/username/repository-name.git](https://github.com/ian-jihoonpark/X-Diffusion.git
+ ### Requirements
+2. install requirements
+```bash
+   pip install -r requirements.txt
