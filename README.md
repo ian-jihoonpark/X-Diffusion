@@ -15,7 +15,12 @@ Official implementation of the paper "[Explaining generative diffusion models vi
   <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/bb1cfe47-a07d-4614-85a6-72109b674941" width="400" height="400">
 </p>
 
-- **`DF_LIME.ipynb`:** Implements the Lime method for diffusion models as a baseline.
+- **`DF_LIME.ipynb`:** Implements the Lime method for diffusion models as a baseline. (Figure3)
+
+<p align="center">
+  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/27c8ff0f-ffb1-43ba-bcf3-8cf5b531bb29" width="512" height="512">
+</p>
+
 - **`Experiments.ipynb`:** Contains DF-RISE visualization experiments and exponential scheduler experiments (Figure 6, Figure 7, Figure 8, Figure 10).
 <p align="center">
   <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/5a07fbf5-5e70-48e7-ba52-73c7f5a88412" width="400" height="400">
@@ -26,6 +31,7 @@ Official implementation of the paper "[Explaining generative diffusion models vi
   <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/81cfb597-86ec-4926-b584-7b80ad42e460" width="400" height="400">
   <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/c9c303b4-b3fa-42a2-897f-7e17faa588c8" width="400" height="400">
 </p>
+
 - **`requirements.txt`:** Contains the list of packages required for environment setup.
 - **`DF_RISE_auc.py`:** Computes the AUC score for DF-RISE.
 
