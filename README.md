@@ -8,7 +8,7 @@ Official implementation of the paper "[Explaining generative diffusion models vi
 - **`conda_requirements.yaml`:** If you use Conda, utilize this file for environment setup.
 - **`DF_Crossattn.ipynb`:** Computes cross-attention scores (Figure 9, Figure 11).
   
-[**View Figure 11 (PDF)**](figures/figure9-2.pdf)
+[**View Figure 9 (PDF)**](figures/figure9-2.pdf) 
 [**View Figure 11 (PDF)**](figures/figure11-2.pdf)
 - **`DF_LIME.ipynb`:** Implements the Lime method for diffusion models as a baseline.
 - **`Experiments.ipynb`:** Contains DF-RISE visualization experiments and exponential scheduler experiments (Figure 5, Figure 6, Figure 7, Figure 10).
