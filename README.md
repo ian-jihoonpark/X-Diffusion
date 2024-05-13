@@ -12,8 +12,8 @@ Official implementation of the paper "[Explaining generative diffusion models vi
 - **`conda_requirements.yaml`:** If you use Conda, utilize this file for environment setup.
 - **`DF_Crossattn.ipynb`:** Computes cross-attention scores (Figure 9, Figure 11).
 <p align="center">
-  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/bb1cfe47-a07d-4614-85a6-72109b674941" width="512" height="512">
-  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/ac9a4def-22e0-4ca5-b643-1ca2f8132e0a" width="512" height="512">
+  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/bb1cfe47-a07d-4614-85a6-72109b674941" width="256" height="256">
+  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/bb1cfe47-a07d-4614-85a6-72109b674941" width="256" height="256">
 </p>
 
 - **`DF_LIME.ipynb`:** Implements the Lime method for diffusion models as a baseline.
