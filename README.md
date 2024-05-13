@@ -3,7 +3,7 @@
 Official implementation of the paper "[Explaining generative diffusion models via visual analysis for interpretable decision-making process](https://www.sciencedirect.com/science/article/pii/S0957417424000964)," accepted by **Expert Systems with Applications 2024**.
 
 <p align="center">
-  <img src="<img width="974" alt="figure1" src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/84457e37-e30a-4ba7-8239-b2bde5b57229">">
+  <"https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/84457e37-e30a-4ba7-8239-b2bde5b57229">
 </p>
 
 ## Code Files
