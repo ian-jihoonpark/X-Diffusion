@@ -12,17 +12,17 @@ Official implementation of the paper "[Explaining generative diffusion models vi
 - **`conda_requirements.yaml`:** If you use Conda, utilize this file for environment setup.
 - **`DF_Crossattn.ipynb`:** Computes cross-attention scores (Figure 9, Figure 11).
 <p align="center">
-  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/bb1cfe47-a07d-4614-85a6-72109b674941" width="256" height="256">
-  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/bb1cfe47-a07d-4614-85a6-72109b674941" width="256" height="256">
+  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/bb1cfe47-a07d-4614-85a6-72109b674941" width="400" height="400">
 </p>
-
 - **`DF_LIME.ipynb`:** Implements the Lime method for diffusion models as a baseline.
 - **`Experiments.ipynb`:** Contains DF-RISE visualization experiments and exponential scheduler experiments (Figure 5, Figure 6, Figure 7, Figure 10).
-  
-[**View Figure 5 (PDF)**](figures/figure5.pdf)  
-[**View Figure 6 (PDF)**](figures/figure6.pdf)  
-[**View Figure 7 (PDF)**](figures/figure7.pdf)  
-[**View Figure 10 (PDF)**](figures/figure10.pdf)
+<p align="center">
+  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/5a07fbf5-5e70-48e7-ba52-73c7f5a88412" width="512" height="512">
+</p>
+<p align="center">
+  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/29f5202b-7aec-43c3-bb95-604d15dd6d70" width="400" height="400">
+  <img src="https://github.com/ian-jihoonpark/X-Diffusion/assets/77654517/c9c303b4-b3fa-42a2-897f-7e17faa588c8" width="400" height="400">
+</p>
 - **`requirements.txt`:** Contains the list of packages required for environment setup.
 - **`DF_RISE_auc.py`:** Computes the AUC score for DF-RISE.
 
