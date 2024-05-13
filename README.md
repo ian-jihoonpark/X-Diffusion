@@ -38,7 +38,8 @@ Official implementation of the paper "[Explaining generative diffusion models vi
 ## Installation
 ### Environment Setup
 1. Clone this repository:
-   git clone https://github.com/username/repository-name.git](https://github.com/ian-jihoonpark/X-Diffusion.git
+   ```bash
+   git clone https://github.com/ian-jihoonpark/X-Diffusion.git
  ### Requirements
 2. install requirements
 ```bash
